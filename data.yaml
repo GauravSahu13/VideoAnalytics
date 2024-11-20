@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['bag', 'bench', 'books', 'laptop', 'lunch', 'person', 'table']
+
+roboflow:
+  workspace: gauravsahu
+  project: dete-wfc4s
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/gauravsahu/dete-wfc4s/dataset/1
