@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sahus/VideoAnalytics/runs/mlflow/759910115735411237/fe24573207dc4959bcea2819df30e556/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '759910115735411237'
+lifecycle_stage: active
+run_id: fe24573207dc4959bcea2819df30e556
+run_name: train3
+run_uuid: fe24573207dc4959bcea2819df30e556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732719208032
+status: 1
+tags: []
+user_id: sahus
